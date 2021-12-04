@@ -4,7 +4,7 @@ const settings = {
     template       : 'dark', // [default | dark]
   },
   card: {
-    separator         : '(?=^##\\s)',
+    separator         : '(?=^###\\s)',
     frontBackSeparator: '%',
     tagPattern        : '^\\[#(.*)\\]',
   },
