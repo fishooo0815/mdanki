@@ -1,3 +1,7 @@
+### Don't use this fork
+go to https://github.com/ashlinchak/mdanki
+
+
 # MDAnki
 
 Converts Markdown file(s) to the Anki cards.
