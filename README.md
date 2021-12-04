@@ -1,5 +1,17 @@
-### Don't use this fork
-go to https://github.com/ashlinchak/mdanki
+# Don't use this fork
+- go to https://github.com/ashlinchak/mdanki
+
+### Function Change
+- Use ### Headlines instead of ## Headlines
+```
+sudo vim /usr/local/lib/node_modules/mdanki/src/configs/settings.js
+```
+- Replace ## to ###
+```
+  card: {
+     separator         : '(?=^###\\s)',
+```
+
 
 
 # MDAnki
